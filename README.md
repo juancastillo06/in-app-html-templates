@@ -62,7 +62,7 @@ For more information of how html in-apps work see our [advanced usage doc](./adv
 
 ### Vertical Swiping
 
-<img alt="Vertical Swiping" src="./vertical_swiping/readme_assets/vertical_swiping_iam.gif" width="200px">
+<img alt="Vertical Swiping" src="./vertical_swiping/readme_assets/vertical_swiping.png" width="200px">
 
 [Source code](./vertical_swiping)
 
