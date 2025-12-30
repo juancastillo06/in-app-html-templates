@@ -60,6 +60,12 @@ For more information of how html in-apps work see our [advanced usage doc](./adv
 
 [Source code](./quiz)
 
+### Vertical Swiping
+
+<img alt="Vertical Swiping" src="./vertical_swiping/readme_assets/vertical_swiping_iam.gif" width="200px">
+
+[Source code](./vertical_swiping)
+
 ## Show Your Support
 
 Give a :star:️ if this project helped you!
